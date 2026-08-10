@@ -1,0 +1,6 @@
+Subdomain Takeover - Proof of Concept
+This page demonstrates that this subdomain is vulnerable to subdomain takeover.
+
+The DNS CNAME record for this subdomain points to an unclaimed Github, allowing any registered user to serve arbitrary content under this trusted domain.
+
+Reported by GDATTACKER · Responsible disclosure only · No data was accessed
